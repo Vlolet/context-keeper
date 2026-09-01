@@ -24,3 +24,4 @@ venv/
 # Data files
 data/*
 !data/.gitkeep
+*.txt
